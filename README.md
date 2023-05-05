@@ -21,6 +21,7 @@
 ### Now starting the json server
 
 - json-server --watch db.json
+
 ![image](https://user-images.githubusercontent.com/69252900/236375621-830e34d6-41e3-4efb-b14d-50d95da139aa.png)
 ![image](https://user-images.githubusercontent.com/69252900/236375673-d8a2167d-e6bc-4bbc-b50c-fb72a1cf7df8.png)
 ![image](https://user-images.githubusercontent.com/69252900/236375734-0447f2c3-4b32-4567-a878-1776cd6c441c.png)
